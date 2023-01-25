@@ -1,0 +1,13 @@
+type;series;model;diagonal;screen type;country;price
+Telephone;S-10;Samsung;AMOLED;45;Korea;20000
+Telephone;TR-34;LG;7;QLED;Germany;23000
+Telephone;S-21;Oppa;6.1;AMOLED;China;18000
+Telephone;A-14;Apple;7;OLED;USA;45000
+Telephone;X-15;Xiaomi;8;QLED;China;15000
+Telephone;A-15;Apple;6;OLED;USA;37000
+Television;RTI-14;LG;25;LED;Korea;21500
+Television;RE-234;Samsung;45;LED;Korea;40500
+Television;KT-43;Xiaomi;40;LED;China;21400
+Television;GT-76;Sony;50;LED;Germany;50000
+Television;TR-21;Samsung;25;LED;Korea;18000
+Television;DT-36;Panasonic;25;LED;China;16800
